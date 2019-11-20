@@ -2,7 +2,7 @@
 
 This function follows the MATLAB fspl implementaion for Free Space Path Loss
 
-This is described here - (https://uk.mathworks.com/help/phased/ref/fspl.html)[https://uk.mathworks.com/help/phased/ref/fspl.html]
+This is described here - https://uk.mathworks.com/help/phased/ref/fspl.html
 
 
 ### How to Use
