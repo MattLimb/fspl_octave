@@ -7,9 +7,9 @@ This is described here - (https://uk.mathworks.com/help/phased/ref/fspl.html)[ht
 
 ### How to Use
 
-1. Place in the Current Working Directory
+1. Place ```fspl.m``` in your Current Working Directory
 
-2. Call fspl in your code!
+2. Call ```fspl``` in your code!
 
 ```matlab
 fspl(R, lambda)
